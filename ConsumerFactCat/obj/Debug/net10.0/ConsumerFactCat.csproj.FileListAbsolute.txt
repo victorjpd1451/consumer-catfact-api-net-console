@@ -1,0 +1,14 @@
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.AssemblyInfoInputs.cache
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.AssemblyInfo.cs
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.csproj.CoreCompileInputs.cache
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.dll
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\refint\ConsumerFactCat.dll
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.pdb
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\bin\Debug\net10.0\ConsumerFactCat.exe
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\bin\Debug\net10.0\ConsumerFactCat.deps.json
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\bin\Debug\net10.0\ConsumerFactCat.runtimeconfig.json
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\bin\Debug\net10.0\ConsumerFactCat.dll
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\bin\Debug\net10.0\ConsumerFactCat.pdb
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ConsumerFactCat.genruntimeconfig.cache
+C:\Users\125111382545\Desktop\UNI\ConsumerFactCat\obj\Debug\net10.0\ref\ConsumerFactCat.dll
